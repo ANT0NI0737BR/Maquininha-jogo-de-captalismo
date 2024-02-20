@@ -155,4 +155,4 @@ while True:
         j["valor"].update(V)
         jog[3]=V
         
-        
+#made by https://github.com/ANT0NI0737BR/codigos.git       
